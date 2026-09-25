@@ -1,0 +1,139 @@
+{
+  "brand": {
+    "title": "ESource Sandbox (Partner Demos)",
+    "subtitle": "Knowledge Check — AI Literacy for Beginners What Everyone Needs to Know",
+    "color": "#1a73e8"
+  },
+  "questions": [
+    {
+      "question": "According to this course, what is the core way that AI works?",
+      "choices": [
+        "AI thinks exactly the way humans do by understanding context and emotions",
+        "AI finds patterns in large amounts of information and predicts what comes next",
+        "AI uses magic and advanced technology that we don't fully understand yet",
+        "AI learns by having conversations and building personal relationships with users"
+      ],
+      "answer": 1,
+      "slide": 6,
+      "feedback_correct": "Exactly right—AI works by recognizing patterns in data and making predictions based on those patterns, not by thinking like humans.",
+      "feedback_incorrect": "Not quite. The course explains that AI doesn't think like humans do. Instead, it finds patterns in huge amounts of information and predicts what comes next—similar to how autocomplete works on your phone."
+    },
+    {
+      "question": "Which of these is an example of AI you might already use without realizing it?",
+      "choices": [
+        "A paper book you read at home",
+        "A music streaming app that recommends songs based on what you've listened to",
+        "A pencil and notebook",
+        "A traditional clock on your wall"
+      ],
+      "answer": 1,
+      "slide": 3,
+      "feedback_correct": "You've got it—movie recommendations, music suggestions, and email predictions are all real examples of AI that many people use daily without thinking about it.",
+      "feedback_incorrect": "Not quite. The course gives examples like movie recommendations, smart assistants, email suggestions, and photo organization—all things AI does to help us without us realizing it."
+    },
+    {
+      "question": "According to the course, what should you never do when using an AI tool?",
+      "choices": [
+        "Ask the AI tool to explain its reasoning to you",
+        "Share your Social Security number or bank details with an AI tool unless you know how they'll be handled",
+        "Use AI to help brainstorm ideas for a project",
+        "Check the AI's answer against trusted sources before using important information"
+      ],
+      "answer": 1,
+      "slide": 15,
+      "feedback_correct": "Correct—protecting private information like SSNs and bank details is a critical safety rule, and you should always think carefully before sharing personal data with any AI tool.",
+      "feedback_incorrect": "Not quite. The course emphasizes that you should always protect private information like Social Security numbers, bank details, and health records. Think before you paste anything sensitive into an AI tool."
+    },
+    {
+      "question": "The course lists several situations where AI should not replace human judgment—which one is mentioned?",
+      "choices": [
+        "Drafting a friendly email to a coworker",
+        "Translating text between two languages",
+        "Making final medical decisions about your health",
+        "Planning a meal based on your dietary preferences"
+      ],
+      "answer": 2,
+      "slide": 13,
+      "feedback_correct": "Exactly—medical decisions are one of several high-stakes areas where AI can assist but human experts must make the final call.",
+      "feedback_incorrect": "Not quite. The course warns against trusting AI blindly for medical decisions, legal decisions, financial decisions, emergency situations, and final business calls. In those areas, human expertise and judgment must be the final authority."
+    },
+    {
+      "question": "What is 'hallucination' in the context of AI, as explained in this course?",
+      "choices": [
+        "When an AI tool sees images that aren't really there",
+        "When AI confidently makes up facts that aren't true, but sounds convincing",
+        "When an AI tool malfunctions due to a software error",
+        "When a user imagines that AI is smarter than it really is"
+      ],
+      "answer": 1,
+      "slide": 12,
+      "feedback_correct": "Spot on—hallucination is when AI confidently invents facts. It sounds authoritative, but the information is false, which makes it particularly dangerous.",
+      "feedback_incorrect": "Not quite. The course explains 'hallucination' as the dangerous tendency for AI to confidently make things up. It sounds convincing and authoritative, but the facts aren't true—which is why you must always verify important information."
+    },
+    {
+      "question": "How does the course explain the difference between using AI as a tool versus relying on it completely?",
+      "choices": [
+        "AI should be used for creative tasks but not for analytical work",
+        "AI should be trusted for all decisions because it's more objective than humans",
+        "AI should be used as a helper to support your work, not replace your judgment—especially in high-stakes situations",
+        "AI is only useful in the workplace and not for personal life"
+      ],
+      "answer": 2,
+      "slide": 13,
+      "feedback_correct": "Excellent—the course emphasizes that AI is a helper or assistant, not a replacement for human judgment. This is especially critical in areas like medicine, law, finance, and emergencies.",
+      "feedback_incorrect": "Not quite. The key lesson is that AI should support and augment what you do, not replace your thinking or judgment. This matters most when decisions are high-stakes or important."
+    },
+    {
+      "question": "According to the course, why might AI give you an outdated answer, and what should you do about it?",
+      "choices": [
+        "AI gets tired after answering many questions, so you should give it breaks throughout the day",
+        "AI's training data has a cutoff date and doesn't know about recent events, so you should always verify critical information with current sources",
+        "AI intentionally withholds new information to encourage you to do your own research",
+        "AI is designed to give answers from only the oldest and most reliable sources"
+      ],
+      "answer": 1,
+      "slide": 12,
+      "feedback_correct": "Exactly right—AI doesn't know about recent events or changes because its training data stops at a certain point. Always verify important current information with trusted, up-to-date sources.",
+      "feedback_incorrect": "Not quite. The course explains that AI has a knowledge cutoff date—it doesn't know about yesterday's news or recent changes. That's why you should always verify important information with current, trusted sources."
+    },
+    {
+      "question": "A coworker asks you if they should share their company's confidential strategic plan with an AI tool to get feedback on it—how should you advise them based on what this course teaches?",
+      "choices": [
+        "Go ahead, as long as it's a popular and well-known AI tool",
+        "Only share it if the coworker promises not to tell anyone else about it",
+        "They should not share confidential company information with an AI tool unless they know exactly how the AI tool handles and stores that data",
+        "It's fine to share it because AI tools are required by law to keep business information private"
+      ],
+      "answer": 2,
+      "slide": 15,
+      "feedback_correct": "Perfect—this applies the course's key safety principle: always protect private and confidential information. Before sharing anything sensitive, you must understand how the AI tool handles that data.",
+      "feedback_incorrect": "Not quite. The course's first safety guideline is to protect private information. You should never share confidential company data with an AI tool unless you're certain you understand how the tool will handle and store it."
+    },
+    {
+      "question": "The course teaches that when you use AI to help create something important at work or school, what is the ethical thing to do?",
+      "choices": [
+        "Keep it secret so people think you're more talented than you actually are",
+        "Only mention it if someone directly asks you if you used AI",
+        "Be transparent and honest that AI helped you create the work, especially in professional and academic settings",
+        "Delete any evidence of AI use before showing your work to others"
+      ],
+      "answer": 2,
+      "slide": 16,
+      "feedback_correct": "Absolutely right—transparency is one of the course's core ethical principles. Being honest about AI's role in your work shows integrity and respect.",
+      "feedback_incorrect": "Not quite. The course emphasizes the ethical principle of transparency: be honest when AI helped create your work, especially in professional and academic contexts. It's the right thing to do."
+    },
+    {
+      "question": "Based on the course's four key modules, which combination best represents the complete foundation an AI-literate person should have?",
+      "choices": [
+        "Only knowing how to use AI tools without understanding their limitations",
+        "Understanding what AI is, what it can do, what it cannot do, and how to use it safely and ethically",
+        "Being able to build and program AI systems without needing to know their practical uses",
+        "Knowing only what AI cannot do so you never trust it in any situation"
+      ],
+      "answer": 1,
+      "slide": 2,
+      "feedback_correct": "Excellent—this captures the complete arc of the course. True AI literacy means understanding both capabilities and limitations, plus the judgment to use AI safely and ethically.",
+      "feedback_incorrect": "Not quite. The course's foundation rests on four pillars: understanding what AI is, recognizing what it can do, identifying where it fails, and knowing how to use it safely and responsibly. All four together create true AI literacy."
+    }
+  ]
+}
