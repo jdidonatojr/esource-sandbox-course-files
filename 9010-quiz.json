@@ -1,0 +1,139 @@
+{
+  "brand": {
+    "title": "ESource Sandbox (Partner Demos)",
+    "subtitle": "Knowledge Check — Comping the Uncomparable",
+    "color": "#1a73e8"
+  },
+  "questions": [
+    {
+      "question": "What is the approximate national threshold for ultra-high-net-worth residential property in 2025 and 2026?",
+      "choices": [
+        "Around one point five million dollars",
+        "Around two point five million dollars",
+        "Around five million dollars",
+        "Around ten million dollars"
+      ],
+      "answer": 0,
+      "slide": 2,
+      "feedback_correct": "Exactly right—the instructor noted that the national threshold sits around $1.5 million, though this varies significantly by market and location.",
+      "feedback_incorrect": "The course specifies that the threshold is around $1.5 million nationally in 2025 and 2026, though this floor changes dramatically depending on the prestige enclave you're analyzing."
+    },
+    {
+      "question": "Which of the following is NOT listed as one of the six psychological drivers that shape how high-net-worth buyers make decisions?",
+      "choices": [
+        "Architectural pedigree and status identity",
+        "Investment returns and rental income potential",
+        "Exclusivity and rarity",
+        "Privacy and discretion in process"
+      ],
+      "answer": 1,
+      "slide": 6,
+      "feedback_correct": "Correct—the course identifies exclusivity, status and identity, privacy, and four others, but does not frame investment returns as a primary psychological driver in luxury purchase decisions.",
+      "feedback_incorrect": "While financial performance matters in some contexts, the course emphasizes that luxury buyers are primarily motivated by exclusivity, status, privacy, and other identity-based factors rather than investment returns."
+    },
+    {
+      "question": "According to the course, why does standard comp logic with a 0.5-mile radius and 3–6 month window fail for UHNW properties?",
+      "choices": [
+        "Because UHNW properties are always listed off-market and have no comparable sales data",
+        "Because UHNW properties are bespoke, sparse, and frequently off-market, requiring expanded geographic and temporal scope",
+        "Because MLS data is never accurate for properties above five million dollars",
+        "Because UHNW buyers never use comparable sales in their decision-making process"
+      ],
+      "answer": 1,
+      "slide": 2,
+      "feedback_correct": "Precisely—the course establishes that UHNW properties are inherently bespoke and sparse, which means the conventional playbook produces unreliable results.",
+      "feedback_incorrect": "The standard approach fails because luxury properties are unique, rare, and often transacted privately, not because data is unavailable or buyers ignore comps entirely."
+    },
+    {
+      "question": "What are the first two of the six steps in a luxury CMA process as outlined in the course?",
+      "choices": [
+        "Pull MLS comps and then select four to six strong comps",
+        "Interview the buyer and then analyze the subject property",
+        "Fully analyze the subject property and then pull comps from MLS",
+        "Select comps from off-market sources and then adjust for location"
+      ],
+      "answer": 2,
+      "slide": 4,
+      "feedback_correct": "That's right—step one is a thorough analysis of the subject property, and step two is pulling comps from the MLS, supplemented by public records.",
+      "feedback_incorrect": "The six-step process starts with analyzing your subject property (including a walk and seller conversation) before you begin searching for comparables on the MLS."
+    },
+    {
+      "question": "In step three of the luxury CMA process, which types of listings should you include when selecting four to six strong comps?",
+      "choices": [
+        "Only closed sales from the past six months",
+        "Only active listings at or near your target price",
+        "Actives, pendings, and expireds, not just closed sales",
+        "Only pending sales, since they reflect current buyer sentiment"
+      ],
+      "answer": 2,
+      "slide": 4,
+      "feedback_correct": "Excellent—the course emphasizes that pendings reveal where the market is heading, making them crucial alongside actives and expireds in luxury markets.",
+      "feedback_incorrect": "While closed sales are important, luxury CMAs must also include active listings, pendings, and expireds to capture the full spectrum of market signal, especially when true comps are scarce."
+    },
+    {
+      "question": "When should you use the Cost Approach valuation method in a luxury CMA?",
+      "choices": [
+        "Always, because it is the most defensible method in court",
+        "When comps are sparse or when the property has unique features like imported stone or specialized finishes that lack direct market comparables",
+        "Only for new construction properties under ten million dollars",
+        "Never, because UHNW buyers do not care about replacement cost"
+      ],
+      "answer": 1,
+      "slide": 5,
+      "feedback_correct": "Exactly—the Cost Approach is your backup when traditional comparable sales are unavailable or when the property has bespoke, custom elements that the market has never priced before.",
+      "feedback_incorrect": "The Cost Approach serves a specific purpose: it steps in when you lack usable comps or when the property carries architectural or material features so unique that direct sales comparisons don't exist."
+    },
+    {
+      "question": "What is the primary reason the instructor emphasizes that price-per-square-foot is deceptive for UHNW properties?",
+      "choices": [
+        "Because UHNW buyers refuse to discuss price per square foot",
+        "Because non-standardized outdoor spaces and expansive grounds distort the metric, making bracketed pricing a better approach",
+        "Because square footage is never accurately recorded in MLS listings",
+        "Because UHNW properties always appreciate faster than lower-priced homes"
+      ],
+      "answer": 1,
+      "slide": 7,
+      "feedback_correct": "Right—the course explicitly notes that outdoor spaces and grounds are non-standardized at the luxury level, rendering per-square-foot pricing unreliable.",
+      "feedback_incorrect": "The issue is not with recording accuracy or buyer preference, but rather that luxury properties often have extensive, unique outdoor features that don't scale cleanly into a square-footage metric."
+    },
+    {
+      "question": "According to the course, what is the shift from salesperson to trusted advisor in the luxury market, and why is it essential?",
+      "choices": [
+        "It is a positioning choice that helps with marketing but is not strictly required",
+        "It means listening before pitching, demonstrating market mastery, building relationships first, and protecting discretion—a requirement, not optional",
+        "It is a way to charge higher commissions without doing additional work",
+        "It is only necessary for sellers above fifty million dollars"
+      ],
+      "answer": 1,
+      "slide": 7,
+      "feedback_correct": "Perfect—the course is clear that this shift is not optional; it is a fundamental requirement of serving high-net-worth clients credibly.",
+      "feedback_incorrect": "The transition from salesperson to advisor is not a nice-to-have or a marketing tactic—it is foundational to the discipline of luxury real estate, demanded by client expectations and market dynamics."
+    },
+    {
+      "question": "What are the seven core channels in the luxury marketing stack, and which two does the course identify as non-negotiable?",
+      "choices": [
+        "Professional staging and email marketing campaigns",
+        "Professional staging and high-end photography/videography",
+        "Social media advertising and lifestyle video",
+        "Three-dimensional digital twins and local publications"
+      ],
+      "answer": 1,
+      "slide": 8,
+      "feedback_correct": "Correct—the course emphasizes that staging is the visual foundation and that high-end photography and videography are non-negotiable because quality signals quality.",
+      "feedback_incorrect": "While all seven channels serve a purpose, the course specifically flags professional staging and high-end photography/videography as non-negotiable foundational elements of luxury marketing."
+    },
+    {
+      "question": "Based on the course framework, if a listing has sat longer than expected and failed to attract the right buyer pool, which of the first three strategic comp framework steps would most directly address this problem?",
+      "choices": [
+        "Expanding geography and timeline to identify true competing micro-markets and position the listing in the correct tier",
+        "Mining off-market sources to find hidden comps that justify a higher price",
+        "Pricing X-factor variables to extract maximum value from unique features",
+        "Using the Income Approach to demonstrate long-term financial performance"
+      ],
+      "answer": 0,
+      "slide": 3,
+      "feedback_correct": "Exactly—if the wrong buyer pool is reaching the listing, you may have misjudged its true market position; expanding geographic and temporal scope reveals competing micro-markets and repositions the property correctly.",
+      "feedback_incorrect": "While all valuation steps matter, reaching the wrong buyer pool suggests the property was positioned in the wrong market tier or geography—precisely what step one (expand scope) is designed to correct."
+    }
+  ]
+}
