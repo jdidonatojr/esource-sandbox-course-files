@@ -35,5 +35,38 @@
         "startSlide": 20
       }
     ]
+  },
+  "9010": {
+    "id": "comping_the_uncomparable",
+    "title": "Comping the Uncomparable",
+    "totalSlides": 10,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/esource-sandbox-course-files/main/9010-Comping-the-Uncomparable.pdf",
+    "firstMessage": "Welcome to Comping the Uncomparable. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Context (slides 1-2)",
+        "startSlide": 1
+      },
+      {
+        "label": "Building the Luxury CMA (slides 3-5)",
+        "startSlide": 3
+      },
+      {
+        "label": "X-Factor Valuation (slides 6-7)",
+        "startSlide": 6
+      },
+      {
+        "label": "Adjustment Framework (slide 8)",
+        "startSlide": 8
+      },
+      {
+        "label": "Active Market Analysis (slide 9)",
+        "startSlide": 9
+      },
+      {
+        "label": "Strategic Framework and Closeout (slide 10)",
+        "startSlide": 10
+      }
+    ]
   }
 }
